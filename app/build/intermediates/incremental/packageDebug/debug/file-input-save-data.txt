@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Nov 30 21:05:19 WIB 2017
+0.baseType=DIRECTORY
+0.base=/media/hilmantm/CE36FBD036FBB813/Indonesia Android Kejar/IAK_Project-20171130T072404Z-001/IAK_Project/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1

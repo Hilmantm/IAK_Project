@@ -1,0 +1,4 @@
+#Thu Nov 30 21:05:19 WIB 2017
+base.0=/media/hilmantm/CE36FBD036FBB813/Indonesia Android Kejar/IAK_Project-20171130T072404Z-001/IAK_Project/app/build/intermediates/transforms/dexMerger/debug/18
+path.0=classes.dex
+renamed.0=classes.dex

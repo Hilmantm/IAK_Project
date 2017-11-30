@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundLogin"
+    tools:context="com.iak.testing.iak_project.loginActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:src="@drawable/logo"
+           android:layout_gravity="center"/>
+
+       <EditText
+           android:id="@+id/username"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:textCursorDrawable="@null"
+            android:hint="@string/username"
+            android:background="@color/putih"
+            android:paddingLeft="15dp"
+           android:layout_marginTop="20dp"/>
+
+       <EditText
+           android:id="@+id/password"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:textCursorDrawable="@null"
+            android:hint="admin"
+            android:background="@color/putih"
+            android:paddingLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:inputType="textPassword"/>
+
+       <Button
+           android:id="@+id/login"
+            android:layout_width="220dp"
+            android:layout_height="55dp"
+            android:text="@string/login"
+            android:layout_marginTop="20dp"/>
+
+       <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tidak punya account?"
+                android:textColor="@color/putih" />
+
+            <TextView
+                android:id="@+id/SignUp"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signUp"
+                android:textColor="@color/putih"
+                android:layout_marginLeft="3dp"/>
+
+       </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

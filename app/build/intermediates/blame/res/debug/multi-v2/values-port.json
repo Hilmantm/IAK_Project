@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hilmantm/CE36FBD036FBB813/Indonesia Android Kejar/IAK_Project-20171130T072404Z-001/IAK_Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/hilmantm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d215e8866abb5357d22da566c478ec39/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/hilmantm/CE36FBD036FBB813/Indonesia Android Kejar/IAK_Project-20171130T072404Z-001/IAK_Project/E:\\ProjectAndroidStudio\\IAK_Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "/media/hilmantm/CE36FBD036FBB813/Indonesia Android Kejar/IAK_Project-20171130T072404Z-001/IAK_Project/C:\\Users\\widyan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d05e01947509fdffc75654ba01c9c613\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
